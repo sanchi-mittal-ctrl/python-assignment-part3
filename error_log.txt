@@ -1,0 +1,2 @@
+[2026-04-05 22:37:45] ERROR in fetch_products: ConnectionError — HTTPSConnectionPool(host='this-host-does-not-exist-xyz.com', port=443): Max retr
+[2026-04-05 22:37:46] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
